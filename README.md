@@ -23,7 +23,7 @@ Basically, it's a way to say we are all a network (a “tribe”), even if we ar
 
 ## Some differences
 
-Online social networks seem different from real ones because it's a brand new way to manage them. And it's kind of exciting, because we are no longer limited in space and time. Everything is instantaneous on the Web and crosses the planet in a fraction of a second. People see two main problems behind the “no limitations” : we tend to share a lot more and to change how we communicate. I agree with the first problem, which is well explained in the article “ How much is too much share on social media”. To sum up very quickly, some people feel way too comfortable and share things they wouldn't even openly share in front of real people. But I disagree on the second problem that says we change how we communicate. Yes it changes, it's true. But it changes because our society is changing. Society is based on communication, we are society, we are a social network. That's all. But it doesn't stop people from interacting directly together, and most of the time it came from online social networks. For instance, we manage parties through social networks. Or when a disaster occurred, people often use social network to set up a physical meeting to show their support, like with the Charlie Hebdo attack.
+[See specific file for details](https://github.com/jbardon/social-network-course/blob/master/Differences.md)
 
 ## Conclusion
 
