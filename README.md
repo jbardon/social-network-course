@@ -4,6 +4,7 @@ by **Brice Thomas**, __2015__, *21st century*
 
 ## Introduction
 
+![Illustration](http://www.algoritma.it/assets/social-network.jpeg)
 December 2012, a peaceful elementary school in Newtown (USA, Connecticut) got involved in a tragedy.  
 A mass shooting resulting in twenty children and six adults dead. Sad story. But reactions were not at all the same. Of course most people were affected, we are human after all. But some others took the time to create some online disruptions. Especially on Facebook and Twitter, by creating fake accounts on Adam Lanza, the murderer. Social networks can be very rude.
 
@@ -13,6 +14,10 @@ But let's face it... that's sadly how the world works. So there is good and bad 
 afraid of ourselves.
 
 ## We are social network
+
+Like it said in RRRrrr!!!, a Frensh movie :
+
+> We are a tribe! You are a tribe! I am a tribe!. -- RRRrrrr!!!
 
 Basically, it's a way to say we are all a network (a “tribe”), even if we are alone. People are connected with invisible strings. And that's how we work since we began to conquer the world. And ironically, it's also how it will end. Finally... We are a social network. You are a social network. I am a social network. Internet and the Web 2.0 hadn't invented it. I'm pretty sure Vercingétorix did have a vast social network and no Twitter account or Internet access.
 
@@ -24,6 +29,8 @@ Online social networks seem different from real ones because it's a brand new wa
 
 Insert conclusion here.
 
+![Conclusion picture](https://cloud.githubusercontent.com/assets/9324783/6765278/2c81a55e-cfd9-11e4-8e6a-2ac25af1db3e.png)
+
 ### References
 * articles :
   - http://possesocialmedia.com/controversy-surrounding-social-media-networking-sites/
@@ -32,3 +39,13 @@ Insert conclusion here.
   - https://www.psychologytoday.com/blog/close-encounters/201503/how-much-is-too-much-share-social-media
   - http://wersm.com/the-rise-of-social-media-in-disaster-response-infographic/
 * videos :
+  - [RRRrrrr extract](http://www.dailymotion.com/video/xd0rgz_rrrrrrr-je-suis-une-tribu_fun)
+  
+#### Authors of this MOOC
+
+First name | Last name
+-----------|----------
+Jérémy | Bardon
+Philippe | Padioleau
+Anthony | Pena
+Brice | Thomas
