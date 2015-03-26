@@ -5,6 +5,7 @@ by **Brice Thomas**, __2015__, *21st century*
 ## Introduction
 
 ![Conclusion picture](https://cloud.githubusercontent.com/assets/9324783/6765278/2c81a55e-cfd9-11e4-8e6a-2ac25af1db3e.png)
+
 December 2012, a peaceful elementary school in Newtown (USA, Connecticut) got involved in a tragedy.  
 A mass shooting resulting in twenty children and six adults dead. Sad story. But reactions were not at all the same. Of course most people were affected, we are human after all. But some others took the time to create some online disruptions. Especially on Facebook and Twitter, by creating fake accounts on Adam Lanza, the murderer. Social networks can be very rude.
 
