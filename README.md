@@ -4,7 +4,7 @@ by **Brice Thomas**, __2015__, *21st century*
 
 ## Introduction
 
-![Illustration](http://www.algoritma.it/assets/social-network.jpeg)
+![Conclusion picture](https://cloud.githubusercontent.com/assets/9324783/6765278/2c81a55e-cfd9-11e4-8e6a-2ac25af1db3e.png)
 December 2012, a peaceful elementary school in Newtown (USA, Connecticut) got involved in a tragedy.  
 A mass shooting resulting in twenty children and six adults dead. Sad story. But reactions were not at all the same. Of course most people were affected, we are human after all. But some others took the time to create some online disruptions. Especially on Facebook and Twitter, by creating fake accounts on Adam Lanza, the murderer. Social networks can be very rude.
 
@@ -27,9 +27,12 @@ Basically, it's a way to say we are all a network (a “tribe”), even if we ar
 
 ## Conclusion
 
-Insert conclusion here.
+So this is why online social networks are only a virtual reality of our society. Social networks are not new, they are just different than they used to be. Like everything. Except the McDonald's Happy Meal of course.
 
-![Conclusion picture](https://cloud.githubusercontent.com/assets/9324783/6765278/2c81a55e-cfd9-11e4-8e6a-2ac25af1db3e.png)
+And please don't forget... __We are a tribe !__
+
+![Illustration](http://www.algoritma.it/assets/social-network.jpeg)
+
 
 ### References
 * articles :
