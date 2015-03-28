@@ -20,7 +20,7 @@ afraid of ourselves.
 
 ## We are social network
 
-Like it said in RRRrrr!!!, a Frensh movie :
+Like it said in RRRrrr!!!, a French movie :
 
 > We are a tribe! You are a tribe! I am a tribe!. -- RRRrrrr!!!
 
