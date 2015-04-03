@@ -18,6 +18,7 @@
     <!-- Squad theme CSS -->
     <link href="css/style.css" rel="stylesheet">
 	<link href="color/default.css" rel="stylesheet">
+	<link href="css/mooc.css" rel="stylesheet">
 	
 	<!-- Core JavaScript Files -->
     <script src="js/jquery.min.js"></script>
@@ -494,7 +495,7 @@
                 <div class="service-box">
 					<div class="service-desc">
 						<h5>1. How to write a sub-heading?</h5><!-- Question 1 -->
-						<div>
+						<div class="question-response">
 							<div class="radio">
 								<label>
 									<input type="radio" name="question1" onclick="displayFalse($(this))">
@@ -533,26 +534,26 @@
                 <div class="service-box">
 					<div class="service-desc">
 						<h5>2. Which symbol can’t be used for lists?</h5><!-- Question 2 -->
-						<div>
+						<div class="question-response">
 							<div class="radio">
 								<label>
 									<input type="radio" name="question2" onclick="displayFalse($(this))">
 									+ (plus)
 								</label>
 							</div>
-							<div class="checkbox">
+							<div class="radio">
 								<label>
 									<input type="radio" name="question2" onclick="displayTrue($(this))">
 									_ (underscore)
 								</label>
 							</div>
-							<div class="checkbox">
+							<div class="radio">
 								<label>
 									<input type="radio" name="question2" onclick="displayFalse($(this))">
 									* (star)
 								</label>
 							</div>
-							<div class="checkbox">
+							<div class="radio">
 								<label>
 									<input type="radio" name="question2" onclick="displayFalse($(this))">
 									- (minus)
@@ -579,7 +580,7 @@
                 <div class="service-box">
 					<div class="service-desc">
 						<h5>3. Is it possible to format a text bold and italic?</h5><!-- Question 3 -->
-						<div>
+						<div class="question-response">
 							<div class="radio">
 								<label>
 									<input type="radio" name="question3" onclick="displayTrue($(this))">
@@ -606,7 +607,7 @@
                 <div class="service-box">
 					<div class="service-desc">
 						<h5>4. What Github can do for you?</h5><!-- Question 4 -->
-						<div>
+						<div class="question-response">
 							<div class="radio">
 								<label>
 									<input type="radio" name="question4" onclick="displayTrue($(this))">
@@ -652,7 +653,7 @@
                 <div class="service-box">
 					<div class="service-desc">
 						<h5>5. How to insert links in Markdown ?</h5><!-- Question 5 -->
-						<div>
+						<div class="question-response">
 							<div class="radio">
 								<label>
 									<input type="radio" name="question5" onclick="displayTrue($(this))">
@@ -691,7 +692,7 @@
                 <div class="service-box">
 					<div class="service-desc">
 						<h5>6. How many files can you have at most in a project ?</h5><!-- Question 6 -->
-						<div>
+						<div class="question-response">
 							<div class="radio">
 								<label>
 									<input type="radio" name="question6" onclick="displayFalse($(this))">
@@ -737,7 +738,7 @@
                 <div class="service-box">
 					<div class="service-desc">
 						<h5>7. Are courses exportable to your computer ?</h5><!-- Question 7 -->
-						<div>
+						<div class="question-response">
 							<div class="radio">
 								<label>
 									<input type="radio" name="question7" onclick="displayTrue($(this))">
@@ -763,7 +764,7 @@
                 <div class="service-box">
 					<div class="service-desc">
 						<h5>8. What is the symbol for column separator in tables ?</h5><!-- Question 8 -->
-						<div>
+						<div class="question-response">
 							<div class="radio">
 								<label>
 									<input type="radio" name="question8" onclick="displayFalse($(this))">
@@ -809,7 +810,7 @@
                 <div class="service-box">
 					<div class="service-desc">
 						<h5>9. Which syntax is right to add an image in Markdown ?</h5><!-- Question 9 -->
-						<div>
+						<div class="question-response">
 							<div class="radio">
 								<label>
 									<input type="radio" name="question9" onclick="displayFalse($(this))">
@@ -848,7 +849,7 @@
                 <div class="service-box">
 					<div class="service-desc">
 						<h5>10. Did you know this MOOC include an awesome cube you can print ?</h5><!-- Question 10 -->
-						<div>
+						<div class="question-response">
 							<div class="radio">
 								<label>
 									<input type="radio" name="question10" onclick="displayTrue($(this))">
@@ -861,7 +862,7 @@
 									false
 								</label>
 							</div>
-							<div class="checkbox">
+							<div class="radio">
 								<label>
 									<input type="radio" name="question10" onclick="displayFalse($(this))">
 									do it yourself
